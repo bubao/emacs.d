@@ -102,9 +102,8 @@
 #+END_SRC
 
 时间戳格式:
-之前的配置错了，使用下面这种方式就能正确修改显示。
 #+BEGIN_SRC emacs-lisp
-  (setq org-display-custom-times t
+  (setq-default org-display-custom-times t
     org-time-stamp-custom-formats '("<%Y-%m-%d(%A)>" . "<%Y-%m-%d (%A) %H:%M:%S>"))
 #+END_SRC
 * Edit code
