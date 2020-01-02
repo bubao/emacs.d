@@ -2,7 +2,7 @@
 首先定义常量：
 #+BEGIN_SRC emacs-lisp
   (setq slegetank/blog-post-base "~/Work/github/MyBlogOrg") ; 源文件路径
-  (setq slegetank/blog-publish-base  "~/Work/github/slegetank.github.io") ; 博客生成路径
+  (setq slegetank/blog-publish-base  "~/Work/github/bubao.github.io") ; 博客生成路径
   (setq slegetank/blog-publish-base-2  "~/Work/tencent/blog") ; 博客生成路径2
 #+END_SRC
 
@@ -25,7 +25,7 @@
   (setq slegetank/blog-footer
         "<hr />\n
                   <p>License: <a href= \"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a></p>\n
-                  <p><a href= \"mailto:slegetank@163.com\"> Contact</a></p>\n")
+                  <p><a href= \"mailto:asd565586630@qq.com\"> Contact</a></p>\n")
 #+END_SRC
 
 导出参数的配置：

@@ -24,7 +24,7 @@
                                   "ivy"
                                   "search"
                                   "blog"
-                                  "python"
+                                  ;; "python"
                                   "dired"
                                   "js"
                                   "git"
